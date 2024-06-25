@@ -1,9 +1,21 @@
-## Hi there 👋
+### Hola, soy Yan Carlos Lagarejo Raga 🌱 
 
-<!--
-**clagarejo/clagarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado Desarrollador Full-Stack con gusto por crear experiencias de usuario interactivas y fluidas. Aunque tengo experiencia en tecnologías de front-end y back-end, mi verdadera pasión es el desarrollo front-end. Me encanta dar vida a los diseños y crear interfaces amigables para los usuarios.
 
-Here are some ideas to get you started:
+🔧 Tecnologías y Herramientas
+
+## Frontend
+
+- JavaScript
+- Vue.js
+- React.js
+- Next Js
+
+## Backend
+
+- PHP
+- Laravel
+- SQL
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
