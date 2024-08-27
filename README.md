@@ -16,5 +16,7 @@ Desarrollador Full-Stack con gusto por crear experiencias de usuario interactiva
 - PHP
 - Laravel
 - SQL
+- Node Js
+- Mongo DB
 
 ## Puedes saber mas de mi en mi portfolio: https://portfolio-yan-lagarejo.vercel.app/
