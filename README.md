@@ -1,6 +1,6 @@
 ## Hola, soy Yan Carlos Lagarejo Raga 🌱 
 
-Desarrollador Full-Stack con gusto por crear experiencias de usuario interactivas y fluidas. Aunque tengo experiencia en tecnologías de front-end y back-end, mi verdadera pasión es el desarrollo front-end. Me encanta dar vida a los diseños y crear interfaces amigables para los usuarios.
+Soy un desarrollador de software apasionado por la tecnología, las buenas prácticas y el código limpio. Actualmente cuento con mas de (2) años de experiencia como Fullstack Developer
 
 ## 🔧 Tecnologías y Herramientas
 
